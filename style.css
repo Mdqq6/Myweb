@@ -1,0 +1,22 @@
+body {
+    font-size: 15pt;
+    background-color: #376584E0
+}
+table {
+  border-collapse: collapse;
+}
+a{
+  color: #AFEBFF
+}
+
+ul {
+  list-style-type: none;
+}
+h1 {
+  color: #247ABC ;
+  text-shadow: 0 0 20px #ffff
+}
+h2{
+  color: #1F5F90 ;
+  text-shadow: 0 0 20px #FFFFFF
+}
