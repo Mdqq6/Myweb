@@ -15,7 +15,8 @@ th,h2{
   color: #3B4081
 }
 td{
-  color: #E4E4E4
+   color: #DEDEDE ;
+  text-shadow: 0 0 15px #000000
 }
 table{
   border-collapse: collapse;
